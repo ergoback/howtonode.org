@@ -11,6 +11,8 @@ This article will describe how the blog works.  Teach a few node concepts and de
 
 Links are included to the original author and sources.
 
+The upstream owner, [creationix], built this software with [node], the client/serverside JavaScript library.  The sources (freely copied) live at [github], known as [howtonode.org], the location of the primary publically deployed instance of the site, where all of their authors post.
+
 [creationix]: http://github.com/creationix
 [node]: http://nodejs.org/
 [github]: http://github.com/

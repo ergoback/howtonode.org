@@ -1,6 +1,6 @@
-Title: Welcome to HowToNode.org
+Title: Welcome to FrackFreeNewYork.com
 Author: Kingdon Barrett
-Date: Thu Feb 02 2012 16:09:23 GMT-0500 (EST)
+Date: Sun Feb 26 2012 18:10:54 GMT-0500 (EST)
 Node: v0.6.11
 
 This article will describe how the blog works.  Read on and I will describe how

@@ -3,8 +3,6 @@ Author: Kingdon Barrett
 Date: Thu Feb 02 2012 16:09:23 GMT-0500 (EST)
 Node: v0.6.11
 
-**How To Node** put something in bold by enclosing it in `**double stars**`
-
 This article will describe how the blog works.  Read on and I will describe how
 to contribute new articles for others to enjoy.  You will also want to add your
 author profile to the site.  I will try to help you with this every step of the

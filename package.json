@@ -12,10 +12,10 @@
     "node": ">=0.4.0"
   },
   "dependencies": {
-    "stack": ">=0.0.3",
-    "creationix": ">=0.1.2",
-    "wheat": ">=0.2.0",
-    "cluster": ">=0.6.4"
+    "stack": "http://github.com/XULRunner42/stack/tarball/master",
+    "creationix": "http://github.com/XULRunner42/creationix/tarball/master",
+    "wheat": "http://github.com/XULRunner42/wheat/tarball/master",
+    "cluster": "http://github.com/XULRunner42/cluster/tarball/master"
   },
   "devDependencies": {}
 }

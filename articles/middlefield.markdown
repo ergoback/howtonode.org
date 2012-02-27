@@ -9,7 +9,7 @@ drilling sued the town, arguing that only the state could regulate natural gas
 drilling.
 
 ##Judge's Ruling Complicates Hydrofracking Issue in New York##
-** (February 23, 2012) **
+### (February 23, 2012) ###
 
 The landowner, Jennifer K. Huntington, a dairy farmer and president of
 Cooperstown Holstein Corporation, said in the suit that the law denied her

@@ -1,12 +1,12 @@
 {
   "author": "Tim Caswell <tim@creationix.com> (http://creationix.com/)",
   "name": "howtonode.org",
-  "description": "The popular blog howto.no.de",
+  "description": "Based on the popular blog howto.no.de",
   "version": "0.0.0",
-  "homepage": "http://howto.no.de/",
+  "homepage": "http://www.frackfreenewyork.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/creationix/howtonode.org.git"
+    "url": "git://github.com/XULRunner42/howtonode.org.git"
   },
   "engines": {
     "node": ">=0.4.0"

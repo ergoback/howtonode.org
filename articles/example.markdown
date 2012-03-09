@@ -4,7 +4,7 @@ Date: Mon Mar 5 2012 4:20:54 GMT-0500 (EST)
 
 Occupy Rochester Hydrofracking Working Group
 
-DRAFT STATEMENT FOR MARCH 16, 2012 NEW YORK STATE REPUBLICAN CONVENTION PROTEST IN ROCHESTER, NEW YORK
+##DRAFT STATEMENT FOR MARCH 16, 2012 NEW YORK STATE REPUBLICAN CONVENTION PROTEST IN ROCHESTER, NEW YORK##
 
 Governor Cuomo has recently stated that a decision on Hydrofracking could be announced within the next 2 months. The DEC's dSGEIS is fatally flawed. The DEC fails to study the cumulative impacts on our health from water contamination and air pollution from the shale gas extraction industry. The DEC fails to study the long term impacts of increased exposure of our children, to chemicals used in fracking that are known carcinogens and endocrine disruptors. The DEC fails to study the cumulative effects of these chemicals and radioactive frack fluids being sprayed as brine on our roads, and migrating into streams, rivers, and drinking water supplies. The DEC fails to study the long term effects on our farms and foodshed.
     

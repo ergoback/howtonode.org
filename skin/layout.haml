@@ -2,8 +2,8 @@
 %html(lang="en")
   %head
     %meta(charset="utf-8")
-    %title #{(title ? title + " - " : "")}How To Node - NodeJS
-    %meta(name="description" content="Learn the zen of coding in NodeJS.")
+    %title #{(title ? title + " - " : "")}Frack-Free New York - Wheat Blog
+    %meta(name="description" content="Keep New York Hydrofracking-free!")
     %meta(name="viewport" content="width=device-width")
     %link(href="/style.css" rel="stylesheet")
     %link(href="/print.css" rel="stylesheet" media="print")
@@ -15,14 +15,16 @@
         %a{href: "/"}
           %img.logo{src: "/logo.png", alt: "How to Node"}
           .tagline
-            The zen of coding in node.js
+            Keep NY free of hydrofracking!  Add your content below
       = content
       
       #footer
-        %p &copy; 2011 Tim Caswell under the MIT license.
-        %p Content and articles are copyrighted to the individual authors. Design by&nbsp;
-          %a{href: "http://bengourley.co.uk"} Ben Gourley
-          . All code snippets used in the examples are in the public domain.
+        %p &copy; 2012 Kingdon Barrett, provided freely under a 
+          %a{href: "http://creativecommons.org/licenses/by-sa/3.0/us/"}
+             Creative Commons Attribution-ShareAlike 3.0 United States License.
+        %p Content and articles are copyrighted to the individual authors. Wheat blog software is free software available at 
+          %a{href: "http://github.com/creationix/wheat"}
+             Github.com.
         %p Wheat running on node #{process.version}
     :script
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
